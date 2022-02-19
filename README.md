@@ -1,5 +1,5 @@
 # Проект: Путешествие по России
-https://evgenylutyi.github.io/russian-travel/
+https://evgenylutyi.github.io/russian-travel-main/
 ### Обзор
 * Интро
 * Figma
